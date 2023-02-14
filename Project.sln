@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project(키오스크)", "Project\Project(키오스크).csproj", "{47FFAC65-23ED-4A8A-AA44-D169916410EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_admin", "Project_admin\Project_admin.csproj", "{D071E453-B0E4-4640-8506-21F04610733D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FFAC65-23ED-4A8A-AA44-D169916410EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FFAC65-23ED-4A8A-AA44-D169916410EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FFAC65-23ED-4A8A-AA44-D169916410EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FFAC65-23ED-4A8A-AA44-D169916410EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D071E453-B0E4-4640-8506-21F04610733D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D071E453-B0E4-4640-8506-21F04610733D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D071E453-B0E4-4640-8506-21F04610733D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D071E453-B0E4-4640-8506-21F04610733D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {618F89DE-FDD6-43BB-8FC8-976A73C3DCE6}
+	EndGlobalSection
+EndGlobal
